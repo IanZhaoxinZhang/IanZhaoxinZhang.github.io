@@ -16,6 +16,4 @@ Research Interest
 Biogenic Volatile Organic Compounds (BVOCs)
 
 
-
-
 Ecosystem Genomics
