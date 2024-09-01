@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-· I am a Postdoctoral Researcher in [Meredith Ecosystem Genomics Lab](https://www.laurameredith.com/) from University of Arizona, and 
+· I am a Postdoctoral Researcher in [Meredith Ecosystem Genomics Lab](https://www.laurameredith.com/) from University of Arizona and Lawrence Berkeley National Laboratory since 2023.
 
-· Prior to joining UArizona, I was 2023. I received my Ph.D. at the Hong Kong University of Science and Technology in 2023, supervised by [Prof. Kinglun Yeung](https://www.kinglunyeung.com/) and [Prof. Joseph KWAN](https://www.hkust-gz.edu.cn/people/joseph-kai-cho-kwan/); and my Bachelor degree in Zhejiang University in 2017.
+· Prior to joining UArizona, I was 2023. I received my Ph.D. at the Hong Kong University of Science and Technology in 2023, supervised by [Prof. Kinglun Yeung](https://www.kinglunyeung.com/) and [Prof. Joseph Kwan](https://www.hkust-gz.edu.cn/people/joseph-kai-cho-kwan/); and my Bachelor degree in Zhejiang University in 2017.
 
 
 mainly focusing on how trace VOCs, produced by microbial, plant, and abiotic processes, enhance soil carbon storage at the University of Arizona
