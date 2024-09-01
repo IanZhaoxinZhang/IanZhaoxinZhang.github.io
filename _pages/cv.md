@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 CV
-* Download English CV
-* 下载中文简历
+* [Download English CV](https://walterzwang.github.io/files/CV_e.pdf)
+* [下载中文简历](https://walterzwang.github.io/files/CV_c.pdf)
 
 Education
 ======
