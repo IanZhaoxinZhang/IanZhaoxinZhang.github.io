@@ -13,6 +13,8 @@ redirect_from:
 
 ● I am mainly focusing on the integration of multi-omics datasets including volatilomics, metagenomics and metatranscriptomics to help understand how trace VOCs, produced by microbial, plant, and abiotic processes, enhance soil carbon storage.
 
+● [Curriculum Vitae](https://ianzhaoxinzhang.github.io//cv/)
+
 Research Interest
 ======
 Biogenic Volatile Organic Compounds (BVOCs)
