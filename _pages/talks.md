@@ -27,4 +27,4 @@ author_profile: true
 
 ## Workshop  Attendance
 1. Gas Chromatography with Vocus Chemical Ionization Mass Spectrometers.
-*Aerodyne Research*, Billerica, Jan. 2024.
+*Aerodyne Research, Inc.*, Billerica, Jan. 2024.
