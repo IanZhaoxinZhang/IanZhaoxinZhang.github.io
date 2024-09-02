@@ -24,3 +24,7 @@ author_profile: true
 *7th International Consortium on Prevention & Infection Control*, Virtually, Sep. 2023.
 4. Volatilome and microbiome of coastal drainage outfall.
 *American Chemical Society Spring Meeting*, Indianapolis, Mar. 2023.
+
+## Workshop  Attendance
+1. Gas Chromatography with Vocus Chemical Ionization Mass Spectrometers.
+*Aerodyne Research*, Billerica, Jan. 2024.
