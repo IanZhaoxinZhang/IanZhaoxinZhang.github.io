@@ -15,9 +15,6 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-## Invited Talks
-Not available.
-
 ## Conference Presentations
 1. VOC Variations from Sorghum Rhizosphere in Semi-Arid Agroecosystems Using PTR-TOF-MS.
 *Gordon Research Conference (GRC) Biogenic Hydrocarbons and the Atmosphere*, Barcelona, Jun. 2024.
