@@ -26,5 +26,8 @@ author_profile: true
 *American Chemical Society Spring Meeting*, Indianapolis, Mar. 2023.
 
 ## Workshop  Attendance
-1. Gas Chromatography with Vocus Chemical Ionization Mass Spectrometers.
+1. Real-Time Monitoring of Subsurface VOCs with Soil Gas Probes Coupled Vocus-PTR.
+*13th TOF-CIMS Users Meeting*, Virtually, May. 2024.
+2. Gas Chromatography with Vocus Chemical Ionization Mass Spectrometers.
 *Aerodyne Research, Inc.*, Billerica, Jan. 2024.
+
