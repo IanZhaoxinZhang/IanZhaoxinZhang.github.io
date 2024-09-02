@@ -25,4 +25,4 @@ Work experience
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2024 American Geophysical Union Session Convener: Linking greenhouse gas, volatile organic compound and climatic processes across interfaces: What are the challenges?
