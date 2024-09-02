@@ -22,6 +22,6 @@ author_profile: true
 1. Improving Building Performance Simulation with Detailed Occupant Movement and Behavior Modeling.
 *American Chemical Society (ACS) Spring Meeting*, Indianapolis, Mar. 2023.
 2. Transformations of soil organic carbon influenced by volatile organic compounds.
-*DOE Genomic Science Program Meeting*, Washington, DC, Apr. 2024.
+*DOE Genomic Science Program Meeting*, Washington, D.C., Apr. 2024.
 3. VOC Variations from Sorghum Rhizosphere in Semi-Arid Agroecosystems Using PTR-TOF-MS.
 *Gordon Research Conference (GRC) Biogenic Hydrocarbons and the Atmosphere*, Barcelona, Jun. 2024.
