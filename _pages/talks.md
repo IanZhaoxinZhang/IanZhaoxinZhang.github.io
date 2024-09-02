@@ -19,11 +19,9 @@ author_profile: true
 1. [Reinforcement Learning for Smart Building Control](http://walterzwang.github.io/files/talks/RLforBuildingControl_2022.pdf). *University College London*, Feb. 2022
 
 ## Conference Presentations
-1. Improving Building Performance Simulation with Detailed Occupant Movement and Behavior Modeling
-*American Chemical Society (ACS) Spring Meeting*, Mar. 2023.
-1. [Machine Learning for Anomaly Detection in Subjective Thermal Comfort Votes
-](http://walterzwang.github.io/files/talks/ASHRAE_Orlando_2020.pdf). 
-*ASHRAE Winter's Conference*, Orlando, Feb. 2020.
-1. [Inferring Occupant Counts from Wi-Fi Data 
-](http://walterzwang.github.io/files/talks/ASHRAE_Kansas_2019.pdf). 
-*ASHRAE Annual Conference*, Kansas City, Jul. 2019.
+1. Improving Building Performance Simulation with Detailed Occupant Movement and Behavior Modeling.
+*American Chemical Society (ACS) Spring Meeting*, Indianapolis, Mar. 2023.
+2. Transformations of soil organic carbon influenced by volatile organic compounds.
+*DOE Genomic Science Program Meeting*, Washington, DC, Apr. 2024.
+3. VOC Variations from Sorghum Rhizosphere in Semi-Arid Agroecosystems Using PTR-TOF-MS.
+*Gordon Research Conference (GRC) Biogenic Hydrocarbons and the Atmosphere*, Barcelona, Jun. 2024.
