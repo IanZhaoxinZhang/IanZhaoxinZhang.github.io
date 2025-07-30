@@ -17,11 +17,10 @@ Education
 * Ph.D in Sustainable Energy and Environment, The Hong Kong University of Science and Technology, 2023
 * B.S. in Agricultural Resources and Environment, Zhejiang University, 2017
 
-Work experience
+Employment
 ======
 * 2023.09 to Present: Postdoc Researcher, University of Arizona
-* 2023.09 to 2024.01: Postdoc Researcher, Lawrence Berkeley National Lab
-* 2017.09 to 2019.08: Technical Engineer, Beijing GeoEnviron Engineering & Technology Inc.
+* 2023.09 to 2024.01: Visiting Postdoc Researcher, Lawrence Berkeley National Lab
   
 Service and leadership
 ======
