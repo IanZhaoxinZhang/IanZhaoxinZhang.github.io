@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Self photo.jpg"
+  avatar           : "Self photo.png"
   name             : "Zhaoxin Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
